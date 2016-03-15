@@ -2,6 +2,8 @@
 """
 Created on Mon Jun 29 11:38:11 2015
 
+Updated 3/15/16
+
 function: py_to_postgresql_amazon_data.py
 
 functions:
